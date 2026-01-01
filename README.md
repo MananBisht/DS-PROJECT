@@ -6,9 +6,11 @@
 > **game state synchronization**.
   
 ---  
-## Demo  
-![UNO Gameplay Demo](assets/gif/game.gif)  
-![UNO Server side](assets/screenshots/server.png)
+## Demo   
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![UNO Gameplay Demo](assets/gif/game.gif)  
+![UNO Server side](assets/screenshots/server.png)  
+![UNO Server side](assets/screenshots/client.png)  
 ---  
 
 ---
