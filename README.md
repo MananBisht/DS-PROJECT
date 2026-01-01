@@ -74,7 +74,8 @@ UNO/
 ├── shared_protocol.h     # Network protocol definition
 ├── cards.h               # Card & deck structures
 ├── utils.c               # Utility helpers
-└── README.md             # Documentation  
+└── README.md             # Documentation    
+```  
   
 ## Running and Compiling  
 For client :  
