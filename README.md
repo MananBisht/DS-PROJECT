@@ -4,6 +4,12 @@
 > **client–server architecture** using **TCP sockets (Winsock)**.  
 > Designed to demonstrate **low-level networking**, **multithreading**, and  
 > **game state synchronization**.
+  
+---  
+## Demo  
+![UNO Gameplay Demo](assets/gifs/game.gif)  
+
+---  
 
 ---
 
