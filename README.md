@@ -8,7 +8,7 @@
 ---  
 ## Demo   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![UNO Gameplay Demo](assets/gif/game.gif)  
+&emsp;&emsp;&emsp;&emsp;&emsp;![UNO Gameplay Demo](assets/gif/game.gif)  
 ![UNO Server side](assets/screenshots/server.png)  
 ![UNO Server side](assets/screenshots/client.png)  
 ---  
