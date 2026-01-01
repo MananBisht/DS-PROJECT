@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "deck.C": "cpp",
+        "stdbool.h": "c"
+    }
+}
